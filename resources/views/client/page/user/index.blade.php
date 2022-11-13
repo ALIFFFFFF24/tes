@@ -14,7 +14,7 @@ $no = 1;
                     <div class="row">
                         <div class="col">                            <table class="table">
                                 <thead>
-                                    <th>No.</th>
+                                    <th>No</th>
                                     <th>User ID</th>
                                     <th>Fullname</th>
                                     <th>Username</th>
